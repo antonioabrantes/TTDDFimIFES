@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">TTDDFimIFES</string>
+    <string name="item_inicio">Início</string>
+    <string name="item_pesquisa">Pesquisa</string>
+    <string name="item_onosmatico">Onosmático</string>
+    <string name="item_about">Informações</string>
+    <string name="item_sair">Sair</string>
+    <string name="item_ajuda">Ajuda</string>
+    <string name="pesquisar">Digite o código documental, p.ex 122.1</string>
+    <string name="pesquisar_word">Pesquisar palavra na tabela, p. ex. Manuais</string>
+    <string name="procure">Procure</string>
+    <string name="procure_palavra">Procure Palavra</string>
+    <string name="stripc">Tabela de Temporalidade de Destinação de Documentos TTDD - Atividade Meio</string>
+    <string name="about1">Este app foi desenvolvido por Antonio Abrantes e Paula Cotrim de Abrantes - 2019</string>
+    <string name="about2">contacte: otimistarj@gmail.com \n pcotrimdeabrantes@gmail.com</string>
+    <string name="about3"></string>
+    <string name="about5"></string>
+    <string name="strAjuda">Guia do Usuário: o TTDD Fim IFES (Tabela de Temporalidade e Destinação de Documentos,
+        da Atividade Fim das Instituições Federais de Ensino Superior (IFES))
+        é um aplicativo que possibilita a navegação pela tabela de temporalidade com recursos de busca.
+     Para navegar escolha a função Casa que aparece no menu superior
+     Você pode navegar pelas classes, subclasses, grupos e subgrupos podendo retornar à tela
+     anterior clicando na primeira opção da lista de seleção.\n\n
+     Para ver a temporalidade da opção desejada basta manter a sua seleção por dois segundos, ou seja,
+     ao invés de um clique simples de seleção procure prolongar uma pouco mais nesta mesma opção para o que o
+     aplicativo possa mostrar numa janela temporária as informações de temporalidade.\n\n
+     Escolha a lupa do menu principal para procurar por uma classificação ou por uma palavra específica no campo "Assunto" da tabela de
+        temporalidade independentemente do índice de assuntos.
+        Para sair para selecionar a opção de saída no menu lateral para que todas as janelas sejam fechadas e o aplicativo
+        encerrado.\n\n\n\n .
+
+    </string>
+
+</resources>
